@@ -1,1 +1,1 @@
-dataset from https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+uses (Kaggle- GTSRB - German Traffic Sign Recognition Benchmark) dataset url: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
